@@ -1,0 +1,34 @@
+{
+    "Search": [
+        {
+            "Title": "Batman Begins",
+            "Type": "movie",
+            "Year": "2005",
+            "imdbID": "tt0372784"
+        },
+        {
+            "Title": "Batman",
+            "Type": "movie",
+            "Year": "1989",
+            "imdbID": "tt0096895"
+        },
+        {
+            "Title": "Batman Returns",
+            "Type": "movie",
+            "Year": "1997",
+            "imdbID": "tt0103776"
+        },
+        {
+            "Title": "Batman & Robin",
+            "Type": "movie",
+            "Year": "1997",
+            "imdbID": "tt0118688"
+        },
+        {
+            "Title": "Batman Forever",
+            "Type": "movie",
+            "Year": "1995",
+            "imdbID": "tt0112462"
+        }
+    ]
+}
