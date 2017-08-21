@@ -5,7 +5,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ImdbCommunication.Test
+namespace ImdbCommunication.Tests
 {
     public class ImdbRawCommunication
     {

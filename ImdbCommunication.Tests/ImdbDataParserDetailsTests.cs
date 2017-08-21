@@ -4,7 +4,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace ImdbCommunication.Test
+namespace ImdbCommunication.Tests
 {
     public class ImdbDataParserDetailsTests
     {

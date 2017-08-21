@@ -6,7 +6,7 @@ using System.Net.Http;
 using Xunit;
 using Xunit.Abstractions;
 
-namespace ImdbCommunication.Test
+namespace ImdbCommunication.Tests
 {
     public class ImdbApiDetailsExplorationsTests
     {

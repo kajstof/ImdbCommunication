@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web.Script.Serialization;
 
-namespace ImdbCommunication.Test
+namespace ImdbCommunication.Tests
 {
     class JsonDeserializer
     {

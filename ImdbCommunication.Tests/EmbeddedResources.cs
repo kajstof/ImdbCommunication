@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Reflection;
 
-namespace ImdbCommunication.Test
+namespace ImdbCommunication.Tests
 {
     public class EmbeddedResources
     {
